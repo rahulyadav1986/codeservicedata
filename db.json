@@ -1,7 +1,7 @@
 {
     "services": [
         { 
-            "id":1,
+            "id":"development",
             "img1": "../images/s2.png",
             "img2": "../images/s2_h.png",
             "title": "Development",
@@ -9,7 +9,7 @@
             "slug": "development"
         },
         { 
-            "id":2,
+            "id": "design",
             "img1": "../images/s2.png",
             "img2": "../images/s2_h.png",
             "title": "Development",
