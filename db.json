@@ -1,0 +1,20 @@
+{
+    "services": [
+        { 
+            "img1": "../images/s2.png",
+            "img2": "../images/s2_h.png",
+            "title": "Development",
+            "des": "Maecenas elementum sapien in metus placerat finibus. Lorem ipsum dolor sit amet, vix an.",
+            "slug": "development"
+        },
+        { 
+            "img1": "../images/s2.png",
+            "img2": "../images/s2_h.png",
+            "title": "Development",
+            "des": "Maecenas elementum sapien in metus placerat finibus. Lorem ipsum dolor sit amet, vix an.",
+            "slug": "development"
+        }
+        
+    ]
+    
+  }
